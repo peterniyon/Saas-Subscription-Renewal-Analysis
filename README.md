@@ -140,7 +140,7 @@ average_inflation_for_renewals = renewed_data['inflation_rate'].mean()
 
 ---
 
-## Tools You Might Use
+## Tools Used
 | Task | Tool |
 |------|------|
 | Data wrangling | Python (Pandas), SQL |
